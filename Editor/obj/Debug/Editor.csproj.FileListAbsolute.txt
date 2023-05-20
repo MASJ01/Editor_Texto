@@ -1,0 +1,30 @@
+c:\users\hp 2018\documents\visual studio 2012\Projects\Editor\Editor\bin\Debug\Editor.exe.config
+c:\users\hp 2018\documents\visual studio 2012\Projects\Editor\Editor\bin\Debug\Editor.exe
+c:\users\hp 2018\documents\visual studio 2012\Projects\Editor\Editor\bin\Debug\Editor.pdb
+c:\users\hp 2018\documents\visual studio 2012\Projects\Editor\Editor\obj\Debug\Editor.csprojResolveAssemblyReference.cache
+c:\users\hp 2018\documents\visual studio 2012\Projects\Editor\Editor\obj\Debug\Editor.Form1.resources
+c:\users\hp 2018\documents\visual studio 2012\Projects\Editor\Editor\obj\Debug\Editor.Properties.Resources.resources
+c:\users\hp 2018\documents\visual studio 2012\Projects\Editor\Editor\obj\Debug\Editor.csproj.GenerateResource.Cache
+c:\users\hp 2018\documents\visual studio 2012\Projects\Editor\Editor\obj\Debug\Editor.exe
+c:\users\hp 2018\documents\visual studio 2012\Projects\Editor\Editor\obj\Debug\Editor.pdb
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Editor\Editor\obj\Debug\Editor.Form2.resources
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Lenguaje de programacion estructurado\Editor\Editor\bin\Debug\Editor.exe.config
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Lenguaje de programacion estructurado\Editor\Editor\obj\Debug\Editor.exe
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Lenguaje de programacion estructurado\Editor\Editor\obj\Debug\Editor.pdb
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Lenguaje de programacion estructurado\Editor\Editor\bin\Debug\Editor.exe
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Lenguaje de programacion estructurado\Editor\Editor\bin\Debug\Editor.pdb
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Lenguaje de programacion estructurado\Editor\Editor\obj\Debug\Editor.csprojResolveAssemblyReference.cache
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Lenguaje de programacion estructurado\Editor\Editor\obj\Debug\Editor.Form1.resources
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Lenguaje de programacion estructurado\Editor\Editor\obj\Debug\Editor.Form2.resources
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Lenguaje de programacion estructurado\Editor\Editor\obj\Debug\Editor.Properties.Resources.resources
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Lenguaje de programacion estructurado\Editor\Editor\obj\Debug\Editor.csproj.GenerateResource.Cache
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Lenguaje de programacion estructurado\Editor\Editor\bin\Debug\Editor.exe.config
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Lenguaje de programacion estructurado\Editor\Editor\obj\Debug\Editor.exe
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Lenguaje de programacion estructurado\Editor\Editor\obj\Debug\Editor.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Lenguaje de programacion estructurado\Editor\Editor\bin\Debug\Editor.exe
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Lenguaje de programacion estructurado\Editor\Editor\bin\Debug\Editor.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Lenguaje de programacion estructurado\Editor\Editor\obj\Debug\Editor.csprojResolveAssemblyReference.cache
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Lenguaje de programacion estructurado\Editor\Editor\obj\Debug\Editor.Form1.resources
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Lenguaje de programacion estructurado\Editor\Editor\obj\Debug\Editor.Form2.resources
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Lenguaje de programacion estructurado\Editor\Editor\obj\Debug\Editor.Properties.Resources.resources
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Lenguaje de programacion estructurado\Editor\Editor\obj\Debug\Editor.csproj.GenerateResource.Cache
